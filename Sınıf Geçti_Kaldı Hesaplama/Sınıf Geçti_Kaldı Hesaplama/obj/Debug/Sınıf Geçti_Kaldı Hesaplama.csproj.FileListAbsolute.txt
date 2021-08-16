@@ -1,0 +1,10 @@
+C:\Users\Metin\source\repos\Metin Form\Sınıf Geçti_Kaldı Hesaplama\Sınıf Geçti_Kaldı Hesaplama\bin\Debug\Sınıf Geçti_Kaldı Hesaplama.exe.config
+C:\Users\Metin\source\repos\Metin Form\Sınıf Geçti_Kaldı Hesaplama\Sınıf Geçti_Kaldı Hesaplama\bin\Debug\Sınıf Geçti_Kaldı Hesaplama.exe
+C:\Users\Metin\source\repos\Metin Form\Sınıf Geçti_Kaldı Hesaplama\Sınıf Geçti_Kaldı Hesaplama\bin\Debug\Sınıf Geçti_Kaldı Hesaplama.pdb
+C:\Users\Metin\source\repos\Metin Form\Sınıf Geçti_Kaldı Hesaplama\Sınıf Geçti_Kaldı Hesaplama\obj\Debug\Sınıf Geçti_Kaldı Hesaplama.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\Sınıf Geçti_Kaldı Hesaplama\Sınıf Geçti_Kaldı Hesaplama\obj\Debug\Sınıf_Geçti_Kaldı_Hesaplama.Form1.resources
+C:\Users\Metin\source\repos\Metin Form\Sınıf Geçti_Kaldı Hesaplama\Sınıf Geçti_Kaldı Hesaplama\obj\Debug\Sınıf_Geçti_Kaldı_Hesaplama.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\Sınıf Geçti_Kaldı Hesaplama\Sınıf Geçti_Kaldı Hesaplama\obj\Debug\Sınıf Geçti_Kaldı Hesaplama.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\Sınıf Geçti_Kaldı Hesaplama\Sınıf Geçti_Kaldı Hesaplama\obj\Debug\Sınıf Geçti_Kaldı Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\Sınıf Geçti_Kaldı Hesaplama\Sınıf Geçti_Kaldı Hesaplama\obj\Debug\Sınıf Geçti_Kaldı Hesaplama.exe
+C:\Users\Metin\source\repos\Metin Form\Sınıf Geçti_Kaldı Hesaplama\Sınıf Geçti_Kaldı Hesaplama\obj\Debug\Sınıf Geçti_Kaldı Hesaplama.pdb
